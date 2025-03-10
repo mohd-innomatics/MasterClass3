@@ -1,0 +1,32 @@
+## Please contribute your git knowledge.
+<!-- These are the Commends for Using the Git/Github -->
+* git init ---->  It is used to intialize git-repositery.
+[note: In this stage create one hiddden file name it as (.git)]
+
+* git add  ---->  It is used to move files from Non-staging area to Staging area.
+[This are generaly used like:(a). git add file-name (it represents only one particuler file to move staging area) (b). git add . (it represents all files are moved to staging area)]
+
+* git commit -m "message" ----> It is used to commited all chenges to the file and git will be tracked or maintain the history of changes in a file.  
+
+* git push ----> It is used to push the file from our-system  to online-github account
+[note : (i). when ever you can ready to push the file to your account then must be same branch name for our system and github-account. 
+(ii). whenever you can push the file now can create the one variable like: origin and write the comand like this: "git push -u origin branch-name". 
+(iii). When ever use this commend like :"git push -u origin branch-name", Next time directly you can push that files by using this command like : "git push"] 
+
+* git branch -M branch-name ----> It is used to change the existing name of a branch.
+
+* git checkout -b branch-name ----> It is used to create new branch and parallely redirected to the new branch.
+
+* git branch branch-name ----> It is used to Create the new branch.
+
+* git checkout branch-name ----> It is used to redirected to the another branch.
+
+* git remote -v ----> It is used to check whether the online remote-url is linked to the local system or not.
+
+* git log ----> It is used to show the all commits.
+
+* git clone ----> It is used to download the others repositeries with the help of that persons repositery url.
+
+* touch file-name ----> It is used to create the new file.
+
+* mkdir ----> It is used to create the direcotory.
