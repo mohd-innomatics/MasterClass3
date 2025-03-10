@@ -1,0 +1,18 @@
+1. git is a version control system where we have commands to make changes to the files and we can update our repository.
+2. to initial git -- command : git init
+3. To create a directory --command: mkdir file_name
+4.To change to other directory--command: cd file_name
+5.to create file through git bash--command:touch file_name(example touch index.html)
+6. To open that particular file in vscode-- command:using that path give the command:
+code .
+7.To move any file from non-staging area to staging area--
+command:git add file_name / multiple files git add .
+8. To commit the file --command:git commit -m 'filename'
+9.To check the status of file --
+command:git status
+10.To upload files in guthub repository- then first we need to change branch file_name
+command:git branch -M main 
+11.To create a new branch--command:git branch branch_name
+12.To create and directly switch to that branch--
+command:git branch -b branch_name
+13.To see all commits--command:git log
