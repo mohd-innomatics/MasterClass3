@@ -1,0 +1,7 @@
+git init- The code is initializing purpose we can use this command.
+git add .- this command to add the whole folder.
+git commit -m 'message'- this command to use commit the code.
+git branch branchName -this command used for creating new branch.
+git branch -m - this command used for rename the branch.
+git status -this command used for check the status.
+git log - this command is used for check about the logs.
