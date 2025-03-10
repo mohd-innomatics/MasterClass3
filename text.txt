@@ -1,0 +1,23 @@
+git init: initializes the  new repository
+
+git add . : add the file to commit
+
+git commit -m 'message' : – Commits staged changes with a message
+
+git status : show the status of the working directory
+
+git branch : all the local branchof lists
+
+git merge <branch> : merge the both files
+
+git checkout <branch> : merge the branch into current branch
+
+git log : shows the commit history
+
+git remote -v : showing the all remote repositories
+
+git clone <repo-url> : copy a project from github
+
+git pull origin <branch> : Get the latest changes from GitHub.
+
+git push origin <branch> : send your changes to GitHub.
