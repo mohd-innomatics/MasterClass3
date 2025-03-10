@@ -1,0 +1,25 @@
+> git init
+2.how to create a folder using command?
+> mkdir folder-name
+3.how to delete newly created folder?
+> rm folder-name
+4.what is the use of .gitignore file?
+> to avoid watching by git repo.
+5.how to send a file from non-staging to staging area?
+> git add ./ git add index.html/ git add --a
+after creating new repo
+=>git remote -v
+=>git remote add origin ........(url of GitHub repo)
+=>git fetch - git remote -v
+=>git pull / git pull --rebase - for download
+=>cd .. (for going back to the folder i.e project)
+=>git clone (url)
+7.to create branch
+> git branch branch-name
+8.checkout 
+> git checkout -b new branch
+9.download the project from github
+> git clone
+10.rename branch name
+> git branch -M nobita
+11.git push -u origin main
