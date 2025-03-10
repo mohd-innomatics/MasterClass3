@@ -1,0 +1,11 @@
+Git is a version control system which track your files.to make your project tracked by git firstly we have to initialize the project by using the command "gitinit" then .git file is created which is hidden.
+The different stages in git working directory, staging area, local storage and remote repository.
+the files which are in working directory are not tracked by git.
+git add . this command add all the files in your directory to staging area
+git commit -m "message" ... it saves the code locally
+git status ... check whether the files are in staging area or in non staging area
+git log ... it displays all the commits that we have done
+git push ... push the project from local to remote repository
+ls ... list all the files in present directory
+cd ... to change to new directory
+mkdir ... creates a new directory
