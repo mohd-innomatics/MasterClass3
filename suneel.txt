@@ -1,0 +1,7 @@
+git init -for initialising the git repo
+git add for add file from  non staging area to staging area
+git commit -m "message" - for commiting code 
+git status -for tracking file
+git branch -m - for renaming branch name.
+git log - for checking how mant commits we have done.
+ls -a   - for displaying a hidden git file.
