@@ -1,0 +1,25 @@
+=> git init : Initializes a new Git repository in the current directory
+
+=> git add <file>  : Stages a file for the next commit (use . to add all)
+
+=> git status : Shows the current state of the working directory and staging area.\
+
+=> git commit -m "message" – moves to staged area and saves staged changes with a descriptive message.
+
+=> git log : Displays commit history with details.
+
+=> git branch or git branch <new branch Name> : Lists branches or creates a new branch.
+
+=> git checkout <branch name> : Switches to the specified branch
+
+=> git banch -M <Name we want to change> : to change the branch name 
+
+=> git merge <branch>  : Merges the specified branch into the current branch.
+
+=> git remote -v : Shows the remote repository URLs.
+
+=> git remote add origin <repo_url> : Links the local repository to a remote one with the alias origin.
+
+=> git pull – Fetches and integrates changes from a remote repository.
+
+=> git push – Uploads local commits to a remote repository.
