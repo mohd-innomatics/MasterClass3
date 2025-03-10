@@ -1,0 +1,10 @@
+1. git init 
+----for git initialize
+2.git add .
+---for adding file 
+3. git status 
+----understand the statusof this files 
+4. git commit-m " write a message in it to understand the file"
+-------for commit the files
+5. git log
+----for commit history
